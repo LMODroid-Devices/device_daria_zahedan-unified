@@ -819,7 +819,6 @@ vendor/lib64/libmtkcam_pipelinepolicy-smvr.so
 vendor/lib64/libmtkcam_pipelinepolicy.so
 vendor/lib64/libmtkcam_pipelinepolicy_factory.so
 vendor/lib64/libmtkcam_pipelinepolicy_factory.so
-vendor/lib64/libmtkcam.plugin.mfnr.hdr.so
 vendor/lib64/libmtkcam_prerelease.so
 vendor/lib64/libmtkcam_rsc.so
 vendor/lib64/libmtkcam_scenariorecorder.so
