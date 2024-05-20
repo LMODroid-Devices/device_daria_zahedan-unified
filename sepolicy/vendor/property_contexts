@@ -19,7 +19,6 @@ ro.odm.cam.predefault_size    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.continuousshotnum.default.value    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.camera.custom_mf_dist_range    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.camera.defaulttheme    u:object_r:vendor_odm_camera_prop:s0
-ro.odm.camera.dualvideoid    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.camera.flipanim    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.camera.lensapp    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.camera.macroid    u:object_r:vendor_odm_camera_prop:s0
