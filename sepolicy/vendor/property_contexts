@@ -120,6 +120,7 @@ ro.odm.frontmaxzoom    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.fronttimelapse    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.portraithdr    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.yuv_back_value    u:object_r:vendor_odm_camera_prop:s0
+vendor.debug.camera.bgservice.mode    u:object_r:vendor_odm_camera_prop:s0
 
 # Factory (ODM)
 ro.odm.64B_project    u:object_r:vendor_odm_factory_prop:s0

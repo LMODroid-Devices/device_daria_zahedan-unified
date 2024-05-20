@@ -438,6 +438,7 @@ ro.odm.portraithdr=1
 ro.odm.wideanglehdr=1
 ro.odm.wideanglevideo=1
 ro.odm.yuv_back_value=1860
+vendor.debug.camera.bgservice.mode=2
 
 # Factory (ODM)
 ro.odm.64B_project=1
