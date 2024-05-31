@@ -953,10 +953,12 @@ lib/vendor.mediatek.hardware.pq@2.0.so
 lib/vendor.mediatek.hardware.pq@2.1.so
 lib/vendor.mediatek.hardware.pq@2.2.so
 lib/vendor.mediatek.hardware.pq@2.3.so
+lib/vendor.mediatek.hardware.pq_aidl-V1-ndk.so
 lib64/vendor.mediatek.hardware.pq@2.0.so
 lib64/vendor.mediatek.hardware.pq@2.1.so
 lib64/vendor.mediatek.hardware.pq@2.2.so
 lib64/vendor.mediatek.hardware.pq@2.3.so
+lib64/vendor.mediatek.hardware.pq_aidl-V1-ndk.so
 system_ext/lib64/libged_sys.so
 system_ext/lib64/libsf_cpupolicy.so
 system_ext/lib64/libgralloc_extra_sys.so
