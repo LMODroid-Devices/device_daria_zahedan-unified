@@ -325,7 +325,6 @@ PRODUCT_PACKAGES += \
     LMODroidEdgeCutout \
     FrameworksResOverlayZahedan \
     SettingsOverlayZahedan \
-    SettingsProviderOverlayZahedan \
     SystemUIOverlayZahedan \
     TelephonyOverlayZahedan \
     TetheringResMainlineOverlay \
