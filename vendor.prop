@@ -350,7 +350,7 @@ ro.vendor.wfd.dummy.enable=0
 ro.vendor.wfd.iframesize.level=0
 ro.vendor.mtk_wfd_support=1
 ro.vendor.connsys.dedicated.log.port=bt,wifi,ics,btmcu,wifimcu
-ro.vendor.connsys.dedicated.log=1
+ro.vendor.connsys.dedicated.log=0
 persist.vendor.connsys.chipid=-1
 persist.vendor.connsys.patch.version=-1
 persist.vendor.connsys.dynamic.dump=0
@@ -437,7 +437,6 @@ ro.odm.portraithdr=1
 ro.odm.wideanglehdr=1
 ro.odm.wideanglevideo=1
 ro.odm.yuv_back_value=1860
-vendor.debug.camera.bgservice.mode=2
 
 # Factory (ODM)
 ro.odm.64B_project=1

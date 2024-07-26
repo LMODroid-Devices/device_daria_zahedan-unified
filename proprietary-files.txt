@@ -510,6 +510,7 @@ vendor/lib/ov50a40_mipi_raw_tuning.so|90ae05e52e27df3d6f483e78a802a6aac0ab8030
 vendor/lib/vendor.mediatek.hardware.camera.atms@1.0.so|50eab10427b604d98e602f5725877cbd824390b0
 vendor/lib64/hw/android.hardware.camera.provider@2.6-impl-mediatek.so|27c3647c4ea2f6bc1fa7a924c10843a67a103a42
 vendor/lib64/hw/vendor.mediatek.hardware.camera.atms@1.0-impl.so|149f48173ff569c6ebb1d81af6348012f0059f73
+vendor/lib64/hw/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so
 vendor/lib64/hw/vendor.mediatek.hardware.camera.ccap@1.0-impl.so|4f9a766c797f9943a5f874cfcf2447e2ca1642f6
 vendor/lib64/hw/vendor.mediatek.hardware.camera.isphal@1.0-impl.so|a125855946f36e97be1d8da5c94d9e940a47ec6a
 vendor/lib64/hw/vendor.mediatek.hardware.camera.lomoeffect@1.0-impl.so|6c312313ace616c6fc72661ba0c81e7c266a1ca1
