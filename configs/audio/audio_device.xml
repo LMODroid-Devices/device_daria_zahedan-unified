@@ -1405,6 +1405,7 @@
             <kctl name="MISO2_MUX" value="UL2_CH1" />
             <kctl name="UL_SRC_MUX" value="AMIC" />
             <kctl name="UL2_SRC_MUX" value="AMIC" />
+            <kctl name="usb_call_echo_ref" value="0" />
         </path>
         <path name="MD1_TO_CAPTURE2" value="turnon">
             <kctl name="UL2_CH1 PCM_2_CAP_CH1" value="1" />
