@@ -440,6 +440,7 @@ ro.odm.eis30fps=1
 ro.odm.superzoom.arcsoft=1
 ro.odm.uhd.remosaic=1
 ro.odm.wideangle.support=1
+ro.odm.camera.dualvideoid=4
 
 # Factory (ODM)
 ro.odm.64B_project=1
