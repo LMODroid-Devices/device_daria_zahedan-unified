@@ -120,6 +120,23 @@ ro.odm.fronttimelapse    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.portraithdr    u:object_r:vendor_odm_camera_prop:s0
 ro.odm.yuv_back_value    u:object_r:vendor_odm_camera_prop:s0
 vendor.debug.camera.bgservice.mode    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.widezoom5    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.camera.uhd.resolution    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.camera.front.resolution    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.camera.main2.resolution    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.continusshort    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.camera.shortvideo    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.camera.pano    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.camera.dualvideoid    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.cam.sport    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.camera.morestyle    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.hide_pcba_ata_flag    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.camera.soundindex    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.infrared    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.infrared_ranging    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.rear_camera_sub    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.rear_camera_sub2    u:object_r:vendor_odm_camera_prop:s0
+ro.odm.rear_camera_sub3    u:object_r:vendor_odm_camera_prop:s0
 
 # Factory (ODM)
 ro.odm.64B_project    u:object_r:vendor_odm_factory_prop:s0
