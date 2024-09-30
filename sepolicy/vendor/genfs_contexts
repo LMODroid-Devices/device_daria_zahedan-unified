@@ -19,3 +19,6 @@ genfscon sysfs /devices/platform/goodix_ts.0/gesture                           u
 
 # Light
 genfscon sysfs /devices/platform/common_node/hbmstate                          u:object_r:sysfs_leds:s0
+
+# Screen rotation orientation
+genfscon sysfs /devices/platform/common_node/screentate                        u:object_r:sysfs_rotation:s0
