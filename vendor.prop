@@ -335,6 +335,9 @@ ro.hardware.gatekeeper=beanpod
 ro.hardware.kmsetkey=beanpod
 ro.vendor.mtk_microtrust_tee_support=1
 
+# Webcam
+ro.usb.uvc.enabled=true
+
 # WiFi
 ro.vendor.wifi.sap.concurrent.iface=ap1
 ro.vendor.wifi.sap.interface=ap0
