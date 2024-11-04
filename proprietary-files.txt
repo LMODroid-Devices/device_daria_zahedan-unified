@@ -382,9 +382,6 @@ vendor/lib/libCamera_ov50a40mipiraw_Zoom_Preview01.so
 vendor/lib/libCamera_ov50a40mipiraw_Zoom_Preview02.so
 vendor/lib/libCamera_ov50a40mipiraw_Zoom_Preview03.so
 vendor/lib/libOpenCL.so
-vendor/lib/libasn1c_core.so
-vendor/lib/libasn1c_mapi.so
-vendor/lib/libasn1c_mdmi.so
 vendor/lib/libcam.halsensor.hwintegration.so
 vendor/lib/libcameracustom.plugin.so
 vendor/lib/libcmdl.so
@@ -563,9 +560,6 @@ vendor/lib64/libaibc_tuning.so
 vendor/lib64/libaibc_tuning_p2.so
 vendor/lib64/libaibc_tuning_p3.so
 vendor/lib64/libainrcore.so
-vendor/lib64/libasn1c_core.so
-vendor/lib64/libasn1c_mapi.so
-vendor/lib64/libasn1c_mdmi.so
 vendor/lib64/libcam.afhal.so
 vendor/lib64/libcam.chdr.so
 vendor/lib64/libcam.feature_utils.so
@@ -1084,6 +1078,7 @@ vendor/firmware/remoteproc_scp
 vendor/firmware/soc5_0_ram_bt_1_1_hdr.bin
 vendor/firmware/soc5_0_ram_mcu_1_1_hdr.bin
 vendor/firmware/soc5_0_ram_wmmcu_1_1_hdr.bin
+vendor/firmware/ssoc2_2_ram_wifi_1f_1_hdr_ext.bin
 vendor/firmware/wifi.cfg
 
 # Fingerprint
@@ -1579,8 +1574,8 @@ vendor/bin/md_monitor_ctrl
 vendor/bin/mnld
 vendor/bin/mrdump_tool
 vendor/bin/muxreport
-vendor/etc/apdb/APDB_MT6853_S01__W2413
-vendor/etc/apdb/APDB_MT6853_S01__W2413_ENUM
+vendor/etc/apdb/APDB_MT6853_S01__W2422
+vendor/etc/apdb/APDB_MT6853_S01__W2422_ENUM
 vendor/etc/init/gsm0710muxd.rc
 vendor/etc/init/init.cccimdinit.rc
 vendor/etc/init/init.cccirpcd.rc
@@ -1630,9 +1625,6 @@ vendor/lib/libsimmelock.so
 vendor/lib/libsysenv.so
 vendor/lib/libminiui.so
 vendor/lib/libpixelflinger.so
-vendor/lib/libtranslator_mapi_v3.0.so
-vendor/lib/libtranslator_mdmi_v2.8.2.so
-vendor/lib/libtranslator_utils.so
 vendor/lib64/libcapctrl.so
 vendor/lib64/libcares_naptr.so
 vendor/lib64/libcarrierconfig.so
@@ -1665,8 +1657,6 @@ vendor/lib64/libsimmelock.so
 vendor/lib64/libsysenv.so
 vendor/lib64/libminiui.so
 vendor/lib64/libpixelflinger.so
-vendor/lib64/libtranslator_mapi_v3.0.so
-vendor/lib64/libtranslator_mdmi_v2.8.2.so
 vendor/lib64/libtranslator_utils.so
 vendor/lib64/libvia-ril.so
 vendor/lib64/libviamipc-ril.so

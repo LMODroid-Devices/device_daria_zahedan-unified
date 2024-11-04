@@ -342,7 +342,6 @@
             <Limit name="block-size" value="16x16" />
             <Limit name="concurrent-instances" max="10" />
             <Limit name="performance-point-640x480" value="30" />
-            <Limit name="bitrate" range="1-64000" />
         </MediaCodec>
         <MediaCodec name="c2.mtk.avc.encoder" type="video/avc" >
             <Alias name="OMX.MTK.VIDEO.ENCODER.AVC" />
@@ -367,7 +366,6 @@
             <Limit name="size" min="160x128" max="3840x2176" />
             <Limit name="alignment" value="16x16" />
             <Limit name="block-size" value="16x16" />
-            <Limit name="bitrate" range="1-40000000" />
             <Limit name="quality" range="0-100" default="50" />
             <Limit name="concurrent-instances" max="10" />
             <Feature name="bitrate-modes" value="VBR,CBR,CQ" />
