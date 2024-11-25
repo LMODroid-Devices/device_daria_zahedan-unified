@@ -197,7 +197,7 @@ vendor.af.threshold.src_and_effect_count=5
 
 # MediaTek
 ro.vendor.mediatek.version.branch=alps-mp-s0.mp1
-ro.vendor.mediatek.version.release=alps-mp-s0.mp1-V15.260
+ro.vendor.mediatek.version.release=alps-mp-s0.mp1.rc-V16.29.1.s0mp1rc.k61v1.64.bsp_P10
 ro.vendor.mediatek.platform=MT6877
 
 # Misc
