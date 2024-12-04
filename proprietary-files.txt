@@ -1574,8 +1574,8 @@ vendor/bin/md_monitor_ctrl
 vendor/bin/mnld
 vendor/bin/mrdump_tool
 vendor/bin/muxreport
-vendor/etc/apdb/APDB_MT6853_S01__W2422
-vendor/etc/apdb/APDB_MT6853_S01__W2422_ENUM
+vendor/etc/apdb/APDB_MT6853_S01__W2422|b8c0e755503408e31974ed4748bcda34e5098a3c
+vendor/etc/apdb/APDB_MT6853_S01__W2422_ENUM|428de182bdd04d31f430443c6bd2e4c02ddf9f93
 vendor/etc/init/gsm0710muxd.rc
 vendor/etc/init/init.cccimdinit.rc
 vendor/etc/init/init.cccirpcd.rc
