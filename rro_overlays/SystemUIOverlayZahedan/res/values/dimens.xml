@@ -42,5 +42,5 @@
         relies on this value will not be sized correctly. -->
     <item name="pixel_pitch" format="float" type="dimen">65.4</item>
 
-    <dimen name="status_bar_padding_start">8dp</dimen>
+    <dimen name="status_bar_padding_start">16dp</dimen>
 </resources>
