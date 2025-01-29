@@ -407,7 +407,9 @@ PRODUCT_PACKAGES += \
     meta_init.rc \
     meta_init.vendor.rc \
     multi_init.rc \
-    ueventd.mtk.rc
+    ueventd.mtk.rc \
+    meta_init.system.rc \
+    vendor_init_as_system.rc
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/etc/fstab.mt6877:$(TARGET_COPY_OUT_RECOVERY)/root/first_stage_ramdisk/fstab.mt6877
