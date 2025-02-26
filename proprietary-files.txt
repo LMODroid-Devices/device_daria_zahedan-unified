@@ -1082,12 +1082,12 @@ vendor/firmware/ssoc2_2_ram_wifi_1f_1_hdr_ext.bin
 vendor/firmware/wifi.cfg
 
 # Fingerprint
-vendor/lib64/hw/fingerprint.default.so:vendor/lib64/hw/fingerprint.mt6877.so
+vendor/lib64/hw/fingerprint.mt6877.so
 vendor/lib64/libgf_hal.so
 vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so
 
 # FM radio
--system_ext/lib64/libfmjni.so:system/lib64/libfmjni.so
+-lib64/libfmjni.so
 vendor/etc/init/init.fmradio_drv.rc
 
 # Gatekeeper
@@ -1261,8 +1261,8 @@ vendor/etc/security/cacerts_supl/lab/b5805141.0
 vendor/etc/security/cacerts_supl/lab/b805b58a.0
 vendor/etc/security/cacerts_supl/lab/ed7b215e.0
 vendor/etc/security/cacerts_supl/lab/ef4b31e6.0
-vendor/etc/vintf/manifest/gnss-default.xml:vendor/etc/vintf/manifest/gnss-mtk.xml
-vendor/etc/vintf/manifest/gnss@2.1-service.xml:vendor/etc/vintf/manifest/gnss@2.1-service-mtk.xml
+vendor/etc/vintf/manifest/gnss-mtk.xml
+vendor/etc/vintf/manifest/gnss@2.1-service-mtk.xml
 vendor/etc/slp_conf
 vendor/lib/hw/gps.default.so
 vendor/lib64/hw/android.hardware.gnss-impl-mediatek.so
@@ -1574,8 +1574,8 @@ vendor/bin/md_monitor_ctrl
 vendor/bin/mnld
 vendor/bin/mrdump_tool
 vendor/bin/muxreport
-vendor/etc/apdb/APDB_MT6853_S01__W2422|b8c0e755503408e31974ed4748bcda34e5098a3c
-vendor/etc/apdb/APDB_MT6853_S01__W2422_ENUM|428de182bdd04d31f430443c6bd2e4c02ddf9f93
+vendor/etc/apdb/APDB_MT6853_S01__W2422
+vendor/etc/apdb/APDB_MT6853_S01__W2422_ENUM
 vendor/etc/init/gsm0710muxd.rc
 vendor/etc/init/init.cccimdinit.rc
 vendor/etc/init/init.cccirpcd.rc
@@ -2093,7 +2093,7 @@ vendor/thh/ta/c09c9c5daa504b78b0e46eda61556c3a.ta
 vendor/thh/ta/c1882f2d885e4e13a8c8e2622461b2fa.ta
 vendor/thh/ta/d91f322ad5a441d5955110eda3272fc0.ta
 vendor/thh/ta/e97c270ea5c44c58bcd3384a2fa2539e.ta
-vendor/thh/ta/isee_model.json|ea2ed65e2c9b5d89cfde5124731fa6cfd370ef65
+vendor/thh/ta/isee_model.json|bc54da70f529606372b866c49332b2ecf1ba3c0a
 
 # WiFi
 vendor/bin/hw/tetheroffloadservice
@@ -2123,7 +2123,7 @@ vendor/lib/vendor.mediatek.hardware.apmonitor@2.0.so
 vendor/lib/vendor.mediatek.hardware.mdmonitor@1.0.so
 vendor/lib/vendor.mediatek.hardware.netdagent@1.0.so
 vendor/lib/vendor.mediatek.hardware.nwk_opt@1.0.so
--vendor/lib64/libwifi-hal.so:vendor/lib64/libwifi-hal-mtk.so
+-vendor/lib64/libwifi-hal-mtk.so
 vendor/lib64/libapmonitor_vendor.so
 vendor/lib64/libconnfem.so
 vendor/lib64/libnwk_opt_halwrap_vendor.so
