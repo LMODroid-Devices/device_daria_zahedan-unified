@@ -1625,6 +1625,7 @@ vendor/lib/libsimmelock.so
 vendor/lib/libsysenv.so
 vendor/lib/libminiui.so
 vendor/lib/libpixelflinger.so
+vendor/lib64/libasn1c_core.so
 vendor/lib64/libcapctrl.so
 vendor/lib64/libcares_naptr.so
 vendor/lib64/libcarrierconfig.so
