@@ -77,7 +77,6 @@ vendor.debug.camera.single_main2=1
 vendor.camera.mdp.hfg.enable=1
 ro.odm.ctstest_remove_muticamera=1
 ro.vendor.mtk_zsdhdr_support=1
-vendor.camera.aux.packageexcludelist=org.telegram.messenger,org.thunderdog.challegram,us.zoom.videomeetings
 
 # DRM
 drm.service.enabled=true
