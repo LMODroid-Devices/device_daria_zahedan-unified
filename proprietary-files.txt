@@ -952,11 +952,6 @@ system_ext/etc/init/kpoc_charger.rc
 system_ext/lib64/libshowlogo.so
 
 # Display
-system_ext/lib/vendor.mediatek.hardware.pq@2.0.so
-system_ext/lib/vendor.mediatek.hardware.pq@2.1.so
-system_ext/lib/vendor.mediatek.hardware.pq@2.2.so
-system_ext/lib/vendor.mediatek.hardware.pq@2.3.so
-system_ext/lib/vendor.mediatek.hardware.pq_aidl-V2-ndk.so
 system_ext/lib64/vendor.mediatek.hardware.pq@2.0.so
 system_ext/lib64/vendor.mediatek.hardware.pq@2.1.so
 system_ext/lib64/vendor.mediatek.hardware.pq@2.2.so
@@ -1384,18 +1379,12 @@ system_ext/framework/mediatek-ims-extension-plugin.jar
 -system_ext/framework/mediatek-telecom-common.jar
 -system_ext/framework/mediatek-telephony-base.jar
 -system_ext/framework/mediatek-telephony-common.jar
-system_ext/lib/libmtk_vt_wrapper.so
-system_ext/lib/libmtkperf_client.so
-system_ext/lib/libvcodec_cap.so
-system_ext/lib/libvcodec_capenc.so
-system_ext/lib/libvsim-adaptor-client.so
 system_ext/lib64/libcomutils.so
 system_ext/lib64/libimsma.so
 system_ext/lib64/libimsma_adapt.so
 system_ext/lib64/libimsma_rtp.so
 system_ext/lib64/libimsma_socketwrapper.so
 system_ext/lib64/libmtk_vt_service.so
-system_ext/lib64/libmtk_vt_wrapper.so
 system_ext/lib64/libmtk_vt_wrapper.so
 system_ext/lib64/libmtkperf_client.so
 system_ext/lib64/libsignal.so
@@ -1406,8 +1395,6 @@ system_ext/lib64/libvcodec_capenc.so
 system_ext/lib64/libvsim-adaptor-client.so
 system_ext/lib64/libvt_avsync.so
 -system_ext/priv-app/ImsService/ImsService.apk
-system_ext/lib/vendor.mediatek.hardware.videotelephony@1.0.so
-system_ext/lib/vendor.mediatek.hardware.videotelephony-V1-ndk.so
 system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so
 system_ext/lib64/vendor.mediatek.hardware.videotelephony-V1-ndk.so
 vendor/bin/hw/vendor.mediatek.hardware.mmagent@1.1-service
