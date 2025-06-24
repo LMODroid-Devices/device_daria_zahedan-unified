@@ -431,6 +431,7 @@ PRODUCT_PACKAGES += \
 
 # Shims
 PRODUCT_PACKAGES += \
+    libbase_shim \
     libprocessgroup_shim
 
 # Thermal
